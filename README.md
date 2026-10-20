@@ -38,4 +38,4 @@ Configure the required environment variables, including database credentials and
 
 ---
 
-**BookLeaf Publishing** — Simplifying author support and publishing workflows.
+- Created by Akshay Gahlyan, akshaygahlyan49@gmail.com
